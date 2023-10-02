@@ -13,7 +13,7 @@ We'll be building node, php and python sample web applications packaged into doc
 
 2. On the Ubuntu server, let's install docker following the installation process here (https://docs.docker.com/engine/install/ubuntu/)
 
-```docker --version``` to confirm installation
+    ```docker --version``` to confirm installation
 
 
 ### PHP Packaging
@@ -166,6 +166,6 @@ We'll be building node, php and python sample web applications packaged into doc
     ```docker stop container-id``` To stop a running container
 
     ```docker rm container-id``` To remove a container
-    
+
     ```docker rmi image-name``` To remove an image
 
